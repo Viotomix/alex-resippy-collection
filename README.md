@@ -4,6 +4,8 @@ I also fucking hate when people add shit into recipes that doesn't need to be th
 
 I also hate block text for recipes with a burning passion because I always forget where I was at.
 
+*For the best experience, please view this repo via Obsidian.*
+
 To solve both of these problems at once I will be transcribing every recipe in a very strict format:
 
 ---
