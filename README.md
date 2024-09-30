@@ -1,10 +1,11 @@
+*For the best experience, please view this repo via Obsidian.*
+
 I'm tired of sending myself screenshots of my recipes when I need them on my phone, hence this repository.
+
 
 I also fucking hate when people add shit into recipes that doesn't need to be there or explain things in an order that is confusing or even counter productive.
 
 I also hate block text for recipes with a burning passion because I always forget where I was at.
-
-*For the best experience, please view this repo via Obsidian.*
 
 To solve both of these problems at once I will be transcribing every recipe in a very strict format:
 
