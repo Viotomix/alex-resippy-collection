@@ -26,6 +26,16 @@ To solve both of these problems at once I will be transcribing every recipe in a
 1. All steps of the cooking process described in separate numbered sections.
 2. This way everything is in chronological order.
 3. And it's easier to remember where you were at!
+4. These points should be clear, but short, as to not bombard the cook with unnecessary info.
+	-> This is an instruction that should be executed around the same step, but does not belong within it. Use this to describe side steps, like setting out water to boil for a different part of the recipe.
+5. Some steps or even ingredients, may have this symbol next to them "\*". This shows that there's important info to be found in the addendum about this point.
+
+**Addendum:**
+- This section is used to list relevant notes and experiences, after having made the recipe. 
+- Especially to clarify certain points, which do not directly warrant an edit of the recipe, or are based on preference alone.
+- I'd recommend reading these before cooking to get a feel for which things may be relevant to you.
+
+Source: \[Link to the original source goes here\]
 
 ---
 
