@@ -2,7 +2,7 @@
 
 15 min | 1-2 portions
 
-- 50g popcorn kernels
+- 50 g popcorn kernels
 - Sunflower seed oil
 - Salt / Sugar / Whatever you like to mix into your popcorn
 

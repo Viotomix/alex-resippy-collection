@@ -1,17 +1,17 @@
-~90min\* | 2-3 Portions\* / 40 Pieces
+~90 min\* | 2-3 Portions\* / 40 Pieces
 
 Dough:
-- 440g potatoes
-- 200g potato starch
-- 150ml water
+- 440 g potatoes
+- 200 g potato starch
+- 150 ml water
 
 Seasoning:
-- 14g garlic\*
-- 1tbsp chili powder / paprika powder 
-- 1tsp sugar
-- 4tbsp soy sauce
-- 1tbsp green onion
-- 3tbsp cooking oil
+- 14 g garlic\*
+- 1 TBSP chili powder / paprika powder 
+- 1 TSP sugar
+- 4 TBSP soy sauce
+- 1 TBSP green onion
+- 3 TBSP cooking oil
 
 Additionally:
 - An empty glass bottle
